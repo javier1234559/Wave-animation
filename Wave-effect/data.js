@@ -14,8 +14,6 @@ function playAudio(){
             play.innerHTML = `<i class="fa-solid fa-play">` ;
        }    
     });
-    
-
 }
 
 playAudio();
